@@ -1,0 +1,3 @@
+with... write()... will replace content will append to the content
+twinkle Twinjkle little star 
+how I wonder what you are
